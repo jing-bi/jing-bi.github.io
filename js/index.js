@@ -88,8 +88,8 @@ $(document).ready(function () {
 // ==================================================       ABOUT
 $(document).ready(function () {
     $('.about').tilt({
-        glare: true,
-        maxGlare: .5,
+        // glare: true,
+        // maxGlare: .5,
         scale: 1.025,
         maxTilt: 5,
         transition: true,
