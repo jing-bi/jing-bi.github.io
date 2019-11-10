@@ -1,0 +1,25 @@
+.break {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 50px;
+}
+
+.break h1 {
+    text-align: center;
+    font-family: "Lucida Sans Typewriter", monospace;
+    font-size: 90;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.break p {
+    text-align: center;
+    font-family: "Courier New", monospace;
+    font-size: 20;
+    font-weight: 200;
+
+}
