@@ -1,8 +1,14 @@
 /* @import url('http://fonts.googleapis.com/css?family=Oleo+Script'); */
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     margin: 0;
+
 }
+
+
 
 .landing {
     height: 100vh;
