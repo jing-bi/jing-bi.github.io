@@ -1,17 +1,17 @@
 /* @import url('http://fonts.googleapis.com/css?family=Oleo+Script'); */
-html {
+html body {
     scroll-behavior: smooth;
-}
-
-body {
     margin: 0;
-
+    overflow-x: hidden;
 }
+
+
 
 
 
 .landing {
     height: 100vh;
+
 }
 
 .fixed {

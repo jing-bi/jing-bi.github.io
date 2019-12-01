@@ -7,23 +7,24 @@ footer {
     right: 0;
     margin-left: auto;
     margin-right: auto;
-    height: 5vh;
+    height: 2vh;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 footer div {
     transition: 0.5s;
     margin: auto;
-    transform: translate(20%);
+    /* transform: translate(20%); */
 }
 
 footer div a {
     display: block;
     position: relative;
     text-decoration: none;
+    text-align: center;
     padding: 5px;
-    font-size: 20px;
+    font-size: 1.2vw;
     font-family: Helvetica;
     color: #ffffff;
     text-transform: uppercase;
